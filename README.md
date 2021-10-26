@@ -19,7 +19,6 @@ I really like doing personal projects related to data analysis and interpretatio
 ### 🎯 Some technologies I use:
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp;&nbsp;
@@ -34,8 +33,7 @@ I really like doing personal projects related to data analysis and interpretatio
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
-
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ### 📈 Some of my stats are:
